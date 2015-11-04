@@ -1,15 +1,24 @@
-#Gephi Install
+# Install
 Go to Terminal.
 
 Type "java -version".
 
 If you have Java 6, great!
 
-If you have Java 7, please download Java 6.
+If you have Java 7 or higher, we need Java 6 to run Gephi 0.8.2. In December, a new version of [Gephi 0.9](https://gephi.wordpress.com/2015/11/02/announcing-gephi-0-9-release-date/) will be available that works with Java 8. Until then, we need to do a work around. We need to delete/ disable your current version of Java. 
 
-Download Gephi.
+If you have OSX before El Capitan, follow [these instructions](https://www.java.com/en/download/help/mac_uninstall_java.xml0).
+
+If you have OX El Capitan, follow [these instructions]().
+
+Download [Java 6](https://support.apple.com/kb/DL1829?locale=en_US).
+
+
+
+Download [Gephi](http://gephi.github.io/). 
 
 Open the .dmg file. Drag Gephi into Applications. Launch Gephi.
+
 
 If it doesn't open: Right click and select "Show Package Contents". Go to Contents -> Resources -> gephi -> etc -> gephi.conf
 
@@ -21,7 +30,7 @@ jdkhome="/SystFem/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/"
 
 
 
-(Special thank you to Evan Van Ness for this work around.)
+(Special thank you to [Evan Van Ness](http://www.evanvanness.com/post/71491924768/how-to-run-gephi-in-mac-os-x) for this work around.)
 
 
 
