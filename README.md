@@ -15,7 +15,33 @@ If you have Java 7 or higher, we need Java 6 to run Gephi 0.8.2. In December, a 
 
 If you have OSX before El Capitan, follow [these instructions](https://www.java.com/en/download/help/mac_uninstall_java.xml0).
 
-If you have OX El Capitan, follow [these instructions]().
+If you have OX El Capitan, go to the terminal and type:
+
+```
+cd /Library/Java/JavaVirtualMachines/
+ls
+```
+You need to delete every version of Java in here!
+
+Note: Make sure to change where it says "version" to the version's of java on your machine.
+
+```
+cd /Library/Java/JavaVirtualMachines/
+sudo rm -rf /Library/Java/JavaVirtualMachines/jdk<version>.jdk
+```
+
+For example:
+```
+sudo rm -rf /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk
+```
+
+```
+sudo rm -rf /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/
+```
+
+```
+sudo rm -rf /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/
+```
 
 Download [Java 6](https://support.apple.com/kb/DL1572?locale=en_US).
 
