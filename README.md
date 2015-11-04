@@ -1,4 +1,9 @@
 #Gephi
+
+#
+
+
+
 # Install
 Go to Terminal.
 
@@ -12,7 +17,7 @@ If you have OSX before El Capitan, follow [these instructions](https://www.java.
 
 If you have OX El Capitan, follow [these instructions]().
 
-Download [Java 6](https://support.apple.com/kb/DL1829?locale=en_US).
+Download [Java 6](https://support.apple.com/kb/DL1572?locale=en_US).
 
 
 
