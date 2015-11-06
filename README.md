@@ -84,7 +84,7 @@ When we import the data, add the node list first!  Then, add the edge list.
 
  
 
-#Excercise 2
+#Exercise 2
 Download [20050.zip](http://amst23101s2015.coursepress.yale.edu/wp-content/uploads/sites/165/2015/03/20050.zip). Download [Supreme Court Zip Files](http://amst23101s2015.coursepress.yale.edu/wp-content/uploads/sites/165/2015/03/ussc-31.zip).
 
 [Code Book](http://scdb.wustl.edu/documentation.php?s=2c)
