@@ -69,11 +69,18 @@ We are going to use excel, but you can do this as you see fit. Just make sure to
 
 What is your name and department? 
 
+Just an Edge List:
 In order to import, Gephi requires the data to be structured with certain labels. The edge list needs "Source" and "Target". By default, the data will be imported as directed. If we want the data to be undirected, add "Type" and use "Undirected". 
 Back in Gephi, go to Data Table > Import Spreadsheet. Choose your .csv. It will import as an edge list. 
 Go to Data Table > Edges. We see our data.
 Go to Data Table > Nodes. We need to create our labels. Go to "Copy Data to other column" and duplicated "ID" to "Label". 
 
+
+But what if we want to scale up? Our data changes? 
+We need to make an edge list and node list.
+For our edge list, we need "Source" , "Target" and "Type".
+For our node list, we need "ID" and "Label".
+When we import the data, add the node list first!  Then, add the edge list. 
 
 
 
