@@ -61,9 +61,9 @@ jdkhome="/SystFem/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/"
 
 (Special thank you to [Evan Van Ness](http://www.evanvanness.com/post/71491924768/how-to-run-gephi-in-mac-os-x) for this work around.)
 
-#Excercise 1 
+#Exercise 1 
 
-Let's create some data!
+Let's create some data! Go to our [google doc!](https://docs.google.com/spreadsheets/d/14pJf0rXRO7Uo96U3ZBBWVrYnTDzG46Yb39Q7GhSP_ag/edit?usp=sharing)
 
 We are going to use excel, but you can do this as you see fit. Just make sure to save it as a .csv. 
 
@@ -86,7 +86,7 @@ When we import the data, add the node list first!  Then, add the edge list.
 
  
 
-#Loading Data Part 2
+#Excercise 2
 Download [20050.zip](http://amst23101s2015.coursepress.yale.edu/wp-content/uploads/sites/165/2015/03/20050.zip). Download [Supreme Court Zip Files](http://amst23101s2015.coursepress.yale.edu/wp-content/uploads/sites/165/2015/03/ussc-31.zip).
 
 [Code Book](http://scdb.wustl.edu/documentation.php?s=2c)
