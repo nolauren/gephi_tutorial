@@ -65,12 +65,10 @@ jdkhome="/SystFem/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/"
 
 Let's create some data! Go to our [google doc!](https://docs.google.com/spreadsheets/d/14pJf0rXRO7Uo96U3ZBBWVrYnTDzG46Yb39Q7GhSP_ag/edit?usp=sharing)
 
-We are going to use excel, but you can do this as you see fit. Just make sure to save it as a .csv. 
-
 What is your name and department? 
 
 Just an Edge List:
-In order to import, Gephi requires the data to be structured with certain labels. The edge list needs "Source" and "Target". By default, the data will be imported as directed. If we want the data to be undirected, add "Type" and use "Undirected". 
+In order to import, Gephi requires the data to be structured with certain labels. The edge list needs "Source" and "Target". By default, the data will be imported as directed. If we want the data to be undirected, add "Type" and use "Undirected". Save the list as a .csv.  
 Back in Gephi, go to Data Table > Import Spreadsheet. Choose your .csv. It will import as an edge list. 
 Go to Data Table > Edges. We see our data.
 Go to Data Table > Nodes. We need to create our labels. Go to "Copy Data to other column" and duplicated "ID" to "Label". 
