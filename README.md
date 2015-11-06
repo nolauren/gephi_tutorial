@@ -1,8 +1,5 @@
 #Gephi
 
-#
-
-
 
 # Install
 Go to Terminal.
@@ -64,9 +61,25 @@ jdkhome="/SystFem/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/"
 
 (Special thank you to [Evan Van Ness](http://www.evanvanness.com/post/71491924768/how-to-run-gephi-in-mac-os-x) for this work around.)
 
+#Excercise 1 
+
+Let's create some data!
+
+We are going to use excel, but you can do this as you see fit. Just make sure to save it as a .csv. 
+
+What is your name and department? 
+
+In order to import, Gephi requires the data to be structured with certain labels. The edge list needs "Source" and "Target". By default, the data will be imported as directed. If we want the data to be undirected, add "Type" and use "Undirected". 
+Back in Gephi, go to Data Table > Import Spreadsheet. Choose your .csv. It will import as an edge list. 
+Go to Data Table > Edges. We see our data.
+Go to Data Table > Nodes. We need to create our labels. Go to "Copy Data to other column" and duplicated "ID" to "Label". 
 
 
-#Loading Data
+
+
+ 
+
+#Loading Data Part 2
 Download [20050.zip](http://amst23101s2015.coursepress.yale.edu/wp-content/uploads/sites/165/2015/03/20050.zip). Download [Supreme Court Zip Files](http://amst23101s2015.coursepress.yale.edu/wp-content/uploads/sites/165/2015/03/ussc-31.zip).
 
 [Code Book](http://scdb.wustl.edu/documentation.php?s=2c)
@@ -75,9 +88,7 @@ File -> Open -> 20050.csv
 
 Here you must choose whether your graph is directed or undirected. The decision depends on your data.
 
-Note: If the proper screen doesn't seem to be appearing, you can always to go Window in the menu bar. For example, I often find myself having to go to Window-> Graph to get my network to appear. (As you'll see, Gephi is fickle!)
-
-Another Note: To move the graph, select Command and then move your graph. You can zoom in and out with your mouse.
+Note: If the proper screen doesn't seem to be appearing, you can always to go Window in the menu bar. For example, I often find myself having to go to Window-> Graph to get my network to appear. (As you'll see, Gephi is fickle!) To move the graph, select Command and then move your graph. You can zoom in and out with your mouse.
 
 Overview of Gephi by Clement Levallois.
 
@@ -86,7 +97,7 @@ Overview of Gephi by Clement Levallois.
 #Data
 To see the data, select Data Laboratory. (If the tables don't appear, go to Window -> Data Table)
 
-It separates you data into a node list and edge list.  You can adjust the data within Gephi. If you do so, make sure to export it!
+It separates your data into a node list and edge list.  You can adjust the data within Gephi. If you do so, make sure to export it!
 
 
 
