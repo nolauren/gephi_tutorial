@@ -10,9 +10,7 @@ If you have Java 6, great!
 
 If you have Java 7 or higher, we need Java 6 to run Gephi 0.8.2. In December, a new version of [Gephi 0.9](https://gephi.wordpress.com/2015/11/02/announcing-gephi-0-9-release-date/) will be available that works with Java 8. Until then, we need to do a work around. We need to delete/ disable your current version of Java. 
 
-If you have OSX before El Capitan, follow [these instructions](https://www.java.com/en/download/help/mac_uninstall_java.xml).
-
-If you have OX El Capitan, go to the terminal and type:
+If you have OSX, go to the terminal and type:
 
 ```
 cd /Library/Java/JavaVirtualMachines/
