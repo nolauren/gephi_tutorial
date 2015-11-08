@@ -74,8 +74,8 @@ Go to Data Table > Nodes. We need to create our labels. Go to "Copy Data to othe
 
 But what if we want to scale up? Our data changes? 
 We need to make an edge list and node list.
-For our edge list, we need "Source" , "Target" and "Type".
-For our node list, we need "ID" and "Label".
+For our edge list, we need "Source" , "Target", edges "ID", and "Type".
+For our node list, we need nodes "ID" and "Label".
 When we import the data, add the node list first!  Then, add the edge list. 
 
 
