@@ -71,6 +71,8 @@ Let's create some data! Go to our [google doc!](https://docs.google.com/spreadsh
 
 What is your name and department? 
 
+(Test Data)[https://docs.google.com/spreadsheets/d/1tPVL_eQGNjAI4LsOKupAaEd55DuSdCOSyaqOwc-jy5E/edit?usp=sharing]
+
 Just an Edge List:
 In order to import, Gephi requires the data to be structured with certain labels. The edge list needs "Source" and "Target". By default, the data will be imported as directed. If we want the data to be undirected, add "Type" and use "Undirected". Save the list as a .csv.  
 Back in Gephi, go to Data Table > Import Spreadsheet. Choose your .csv. It will import as an edge list. 
