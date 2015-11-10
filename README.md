@@ -6,7 +6,11 @@ Follow the instructions on the [Gephi Install page.] (http://gephi.github.io/use
 # Install with MAC
 Go to Terminal.
 
-Type "java -version".
+Type
+
+```
+java -version
+```
 
 If you have Java 6, great!
 
