@@ -104,16 +104,19 @@ To see the data, select Data Laboratory. (If the tables don't appear, go to Wind
 
 It separates your data into a node list and edge list.  You can adjust the data within Gephi. If you do so, make sure to export it!
 
+Let's take a quick look at the graph. How does it look? Look good? 
+Let's add labels.
 
 
 #Layout
-You can choose your layout. The following are the two we covered in class:
+You can choose your layout. Let's take a look at two:
 
 
 
 Layout -> Fruchterman Reingold -> Run -> Stop
 
-Based on graph drawing. The idea is that the edges want to stay together but the nodes want to move apart.
+It is based on graph drawing. The idea is that the edges want to stay together but the nodes want to move apart.
+It is comes out of physics and mimicks the movement of charged particles.  
 
 
 
@@ -123,7 +126,7 @@ Designed for Gephi and popular for visualizations.
 
 
 
-The first time you select a layout, options will appear. Some adjustments you might consider are  Prevent Overlap and Gravity. To return to this screen, go to Data Laboratory -> Layout. Select the layout you want to adjust and the options screen will appear.
+The first time you select a layout, options will appear. Some adjustments you might consider are  Gravity, Prevent Overlap and Scaling. To return to this screen, go to Data Laboratory -> Layout. Select the layout you want to adjust and the options screen will appear.
 
 
 
@@ -144,6 +147,8 @@ Statistics -> Average Degree -> Run
 Ranking (next to Partition) -> Select the Diamond -> Degree -> Min/Max -> Apply
 
 Now you can adjust the Min / Max. The nodes with the least amount of edges are adjusted through Min size: and the nodes with the most amount of edges are adjusted by Max size:.  After you hit apply, the nodes sizes should adjust accordingly.
+
+Let's also check out In-Degree and Out-Degree.
 
 The other options are excellent as well and worth exploring!
 
