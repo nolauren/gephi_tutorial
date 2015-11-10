@@ -1,7 +1,9 @@
 #Gephi
 
+# Install with PC
+Follow the instructions on the [Gephi Install page.] (http://gephi.github.io/users/install/)
 
-# Install
+# Install with MAC
 Go to Terminal.
 
 Type "java -version".
@@ -70,7 +72,7 @@ In order to import, Gephi requires the data to be structured with certain labels
 Back in Gephi, go to Data Table > Import Spreadsheet. Choose your .csv. It will import as an edge list. 
 Go to Data Table > Edges. We see our data.
 Go to Data Table > Nodes. We need to create our labels. Go to "Copy Data to other column" and duplicated "ID" to "Label". 
-
+Save! Save! Save! 
 
 But what if we want to scale up? Our data changes? 
 We need to make an edge list and node list.
@@ -93,7 +95,7 @@ Here you must choose whether your graph is directed or undirected. The decision 
 
 Note: If the proper screen doesn't seem to be appearing, you can always to go Window in the menu bar. For example, I often find myself having to go to Window-> Graph to get my network to appear. (As you'll see, Gephi is fickle!) To move the graph, select Command and then move your graph. You can zoom in and out with your mouse.
 
-Overview of Gephi by Clement Levallois.
+[Overview of Gephi Panel](http://www.clementlevallois.net/gephi/tuto/en/gephi_cheat%20sheets_en.pdf) by Clement Levallois.
 
 
 
