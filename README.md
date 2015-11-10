@@ -172,11 +172,11 @@ Select Preview. There are many options. Play around and make sure to hit refresh
 
 
 #Assignment
-The goal of the assignment is to visualize a theme from the Supreme Court Data. You can pick any theme you'd like.  In the response, explain the theme you chose, the decisions you made in Gephi and any conclusions we can draw from the network. Make sure to include the network in your blog post.
+You can use your data or visualize a theme from the Supreme Court Data. In the response, explain the theme chosen, the decisions made in Gephi and any conclusions we can draw from the network.  More broadly, comment on the the possibilities and limits of network analysis and Gephi. Make sure to include the network in your blog post. Add “Network Analysis″ from Categories. 
 
 1. Use the  [Code Book](http://scdb.wustl.edu/documentation.php?s=2c) to pick a topic. (Ex. 20050  - Desegregation)
 
-2. Download the ussc (3).  Once you have downloaded, unzip and select your topic.
+2. Download the [ussc](http://amst23101s2015.coursepress.yale.edu/wp-content/uploads/sites/165/2015/03/ussc-31.zip).  Once you have downloaded, unzip and select your topic.
 
 3. Load your data into Gephi.  Adjust as you deem fit!
 
