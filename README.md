@@ -152,7 +152,7 @@ Let's also check out In-Degree and Out-Degree.
 
 The other options are excellent as well and worth exploring!
 
-For example, betweenness and and closeness centrality are popular because they both measure which nodes are central to the network. You can access these calculations by selecting Avg. Path Length.  In our case, it isn't a surprise that 347 US 483 Brown v Board of Education is central to cases on school desegregation.
+For example, betweenness and and closeness centrality are popular because they both measure which nodes are central to the network. You can access these calculations by selecting Avg. Path Length.  After you do that, go to the "Ranking" screen in the top left column. Make sure "Edges" is selected, and click on the red diamond symbol. Adjust the "Max size" to whatever point makes the important nodes distinguishable to you (we set ours to 50). Then, click "Apply." The nodes that have a high betweenness centrality, which means they are often on the shortest path to other nodes, should look larger. In our case, it isn't a surprise that 347 US 483 Brown v Board of Education is central to cases on school desegregation.
 
 
 
