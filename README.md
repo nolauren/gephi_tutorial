@@ -71,7 +71,7 @@ Let's create some data! Go to our [google doc!](https://docs.google.com/spreadsh
 
 What is your name and department? 
 
-(Test Data)[https://docs.google.com/spreadsheets/d/1tPVL_eQGNjAI4LsOKupAaEd55DuSdCOSyaqOwc-jy5E/edit?usp=sharing]
+[In-Class Test Data](https://docs.google.com/spreadsheets/d/1tPVL_eQGNjAI4LsOKupAaEd55DuSdCOSyaqOwc-jy5E/edit?usp=sharing)
 
 Just an Edge List:
 In order to import, Gephi requires the data to be structured with certain labels. The edge list needs "Source" and "Target". By default, the data will be imported as directed. If we want the data to be undirected, add "Type" and use "Undirected". Save the list as a .csv.  
@@ -189,7 +189,7 @@ You can use your data or visualize a theme from the Supreme Court Data. In the r
 
 #Related Readings
 
-Cordell, Ryan, “Uncovering Reprinting Networks in Nineteenth-Century American Periodicals.” Am Lit Hist (Fall 2015) 27 (3): 417–445.
+Cordell, Ryan, “Uncovering Reprinting Networks in Nineteenth-Century American Periodicals.” Am Lit Hist (Fall 2015) 27 (3): 417–445. [Viral Texts Project at Northeastern] (http://viraltexts.org/) and [Networks of Viral Texts](http://networks.viraltexts.org/)
 
 Edward Arriaga, Fernando Caparini and Juan Luis Suarez, [“Modeling Afro-Latin American Artistic Representations in Topic Maps: Cuba’s Prominence in Latin American Discourse.”](http://www.digitalhumanities.org/dhq/vol/7/1/000145/000145.html).
 
